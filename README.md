@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Michael, a computational biologist. This means that I'm using computers and code to analyze biological data, often in collaboration with experimental scientists. I'm working on how cancer cells overcome their growth limitations and how this affects patients. Here you can find some of the work I did, and more general purpose tools I wrote for anyone to use. Please reach out if you want to collaborate! [🐦](https://twitter.com/_ms03) [📫](mailto:mschu.dev@gmail.com)
+I'm Michael, a computational biologist. This means that I'm using computers and code to analyze biological data, often in collaboration with experimental scientists. I'm working on how cancer cells overcome their growth limitations and how we can use that to help patients. Here you can find some of the work I did, and more general purpose tools I wrote for anyone to use. Please reach out if you want to collaborate! [🐦](https://twitter.com/_ms03) [📫](mailto:mschu.dev@gmail.com)
 
 #### This is what I do for research 👨‍🔬[🔗](https://scholar.google.com/citations?user=z6mKdjAAAAAJ&hl=en)
 
