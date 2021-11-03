@@ -4,7 +4,7 @@ I'm Michael, a computational biologist. This means that I'm using computers and 
 
 #### This is what I do for research 👨‍🔬[🔗](https://scholar.google.com/citations?user=z6mKdjAAAAAJ&hl=en)
 
-* Developed a reliable method for the estimating of cell signaling pathways from gene expression [📰](https://www.nature.com/articles/s41467-017-02391-6) [:octocat:](https://github.com/saezlab/footprints) [📦](http://bioconductor.org/packages/release/bioc/html/progeny.html)
+* Developed a reliable method for estimating cell signaling pathways from gene expression [📰](https://www.nature.com/articles/s41467-017-02391-6) [:octocat:](https://github.com/saezlab/footprints) [📦](http://bioconductor.org/packages/release/bioc/html/progeny.html)
 * Showed how gene coexpression networks often reflect cell mixtures instead of regulation [📰](https://www.sciencedirect.com/science/article/abs/pii/S187493991930046X) [:octocat:](https://github.com/mschubert/GRN-aneup-purity)
 * Found how cancer cells can tolerate abnormal DNA content (aneuploidy, ***c***hromosomal ***in***stability) and a potential treatment, in collaboration with experimental scientists (coming soon)
 * Working on estimating DNA copy number of single-cell RNA sequencing (coming soon)
