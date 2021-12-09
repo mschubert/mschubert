@@ -6,7 +6,7 @@ I'm Michael, a computational biologist. This means that I'm using computers and 
 
 * Developed a reliable method for estimating cell signaling pathways from gene expression [📰](https://www.nature.com/articles/s41467-017-02391-6) [:octocat:](https://github.com/saezlab/footprints) [📦](http://bioconductor.org/packages/release/bioc/html/progeny.html)
 * Showed how gene coexpression networks often reflect cell mixtures instead of regulation [📰](https://eriba.umcg.nl/wp-content/uploads/2021/07/Foijer-2019-10-23-Biochim-Biophys-Acta-Gene-Regul-Mech.pdf) [:octocat:](https://github.com/mschubert/GRN-aneup-purity)
-* Found how cancer cells can tolerate abnormal DNA content (aneuploidy, ***c***hromosomal ***in***stability) and a potential treatment, in collaboration with experimental scientists (coming soon)
+* Found how cancer cells can tolerate abnormal DNA content (aneuploidy, ***c***hromosomal ***in***stability) [📰](https://www.biorxiv.org/content/10.1101/2021.12.03.471107v2) [:octocat:](https://github.com/mschubert/mad2-transposon) and a potential treatment (coming soon), in collaboration with experimental scientists
 * Working on estimating DNA copy number of single-cell RNA sequencing (coming soon)
 
 #### Here are some of my open source contributions 🔠
