@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Michael, a computational biologist. This means that I'm using computers and code to analyze biological data, often in collaboration with experimental scientists. I'm working on how cancer cells overcome their growth limitations and how we can use that to help patients. Here you can find some of the work I did, and more general purpose tools I wrote for anyone to use. Please reach out if you want to collaborate!
-
-#### This is what I do for research 👨‍🔬 ([full list 🔗](https://scholar.google.com/citations?user=z6mKdjAAAAAJ&hl=en))
+    
+<details><summary><b>This is what I do for research 👨‍🔬 (<a href=https://scholar.google.com/citations?user=z6mKdjAAAAAJ&hl=en>full list 🔗</a>)</b></summary>
 
 | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;article&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 :- | :-: | :-:
@@ -10,8 +10,10 @@ I'm Michael, a computational biologist. This means that I'm using computers and 
 | Showed how gene coexpression networks often reflect cell mixtures instead of regulation | [*BBA* 📰](https://eriba.umcg.nl/wp-content/uploads/2021/07/Foijer-2019-10-23-Biochim-Biophys-Acta-Gene-Regul-Mech.pdf) | [github :octocat:](https://github.com/mschubert/GRN-aneup-purity)
 | Found a way how cancer cells can tolerate abnormal DNA content (aneuploidy, ***c***hromosomal ***in***stability) and a potential treatment, in collaboration with experimental scientists | [*bioRxiv* 📰](https://www.biorxiv.org/content/10.1101/2021.12.03.471107v2)<br/>(+ coming soon) | [github :octocat:](https://github.com/mschubert/mad2-transposon) 
 | Working on estimating DNA copy number of single-cell RNA sequencing | coming soon |
+  
+</details>
 
-#### Here are some of my open source contributions 🔠 ([full list 🔗](https://github.com/mschubert?tab=repositories))
+<details><summary><b>Here are some of my open source contributions 🔠 (<a href=https://github.com/mschubert?tab=repositories>full list 🔗</a>)</b></summary>
 
 | | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-: | :- | :-:
@@ -19,7 +21,9 @@ I'm Michael, a computational biologist. This means that I'm using computers and 
 | *narray* | R package for simplifying array operations | [github :octocat:](https://github.com/mschubert/narray)<br/>[cran 📦](https://cran.r-project.org/package=narray)
 | *ebits* | R bioinformatics toolkit incubator and data API | [ebits :octocat:](https://github.com/mschubert/ebits)<br/>[data :octocat:](https://github.com/mschubert/data)
 | | Software build scripts for the [ArchLinux User Repository 🔗](https://aur.archlinux.org/packages/?K=mschu&SeB=m) and as [Gentoo overlay 🔗](https://en.wikipedia.org/wiki/Portage_(software)#ebuild) to use with the respective OS | [pkgbuilds :octocat:](https://github.com/mschubert/PKGBUILDs)<br/>[overlay :octocat:](https://github.com/mschubert/overlay)
-
+  
+</details>
+  
 <!--
 **mschubert/mschubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
