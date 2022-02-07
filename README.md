@@ -20,7 +20,7 @@ I'm Michael, a computational biologist. This means that I'm using computers and 
 | *clustermq* | R package for efficient high performance computing ([*Bioinformatics* 📰](https://academic.oup.com/bioinformatics/article/35/21/4493/5499081)),<br/>now used in *targets* [📦](https://github.com/ropensci/targets) [📖](https://books.ropensci.org/targets/) [🧔](https://github.com/wlandau) | [github :octocat:](https://github.com/mschubert/clustermq)<br/>[cran 📦](https://cran.r-project.org/package=clustermq)<br/>[testing :gear:](https://github.com/mschubert/clustermq-performance) 
 | *narray* | R package for simplifying array operations | [github :octocat:](https://github.com/mschubert/narray)<br/>[cran 📦](https://cran.r-project.org/package=narray)
 | *ebits* | R bioinformatics toolkit incubator and data API | [ebits :octocat:](https://github.com/mschubert/ebits)<br/>[data :octocat:](https://github.com/mschubert/data)
-| | Software build scripts for the [ArchLinux User Repository 🔗](https://aur.archlinux.org/packages/?K=mschu&SeB=m) and as [Gentoo overlay 🔗](https://en.wikipedia.org/wiki/Portage_(software)#ebuild) to use with the respective OS | [pkgbuilds :octocat:](https://github.com/mschubert/PKGBUILDs)<br/>[overlay :octocat:](https://github.com/mschubert/overlay)
+| | Software build scripts for the [ArchLinux User Repository 🔗](https://aur.archlinux.org/packages/?K=mschu&SeB=m) and as [Gentoo overlay 🔗](https://en.wikipedia.org/wiki/Portage_(software)#ebuild) | [pkgbuilds :octocat:](https://github.com/mschubert/PKGBUILDs)<br/>[overlay :octocat:](https://github.com/mschubert/overlay)
   
 </details>
   
