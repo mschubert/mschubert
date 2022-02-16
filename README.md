@@ -4,7 +4,7 @@ I'm Michael, a computational biologist. This means that I'm using computers and 
     
 <details><summary><b>This is what I do for research 👨‍🔬 (<a href=https://scholar.google.com/citations?user=z6mKdjAAAAAJ&hl=en>full list 🔗</a>)</b></summary>
 
-| | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;article&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;article&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 :- | :-: | :-:
 | Developed a reliable method for estimating cell signaling pathways from gene expression | [*Nature Comm.* 📰](https://www.nature.com/articles/s41467-017-02391-6)<br/>[*Cell* 📰](https://www.cell.com/cell/fulltext/S0092-8674(16)30746-2) | [github :octocat:](https://github.com/saezlab/footprints)<br/>[bioc 📦](http://bioconductor.org/packages/release/bioc/html/progeny.html)
 | Showed how gene coexpression networks often reflect cell mixtures instead of regulation | [*BBA* 📰](https://eriba.umcg.nl/wp-content/uploads/2021/07/Foijer-2019-10-23-Biochim-Biophys-Acta-Gene-Regul-Mech.pdf) | [github :octocat:](https://github.com/mschubert/GRN-aneup-purity)
@@ -15,12 +15,12 @@ I'm Michael, a computational biologist. This means that I'm using computers and 
 
 <details><summary><b>Here are some of my open source contributions 🔠 (<a href=https://github.com/mschubert?tab=repositories>full list 🔗</a>)</b></summary>
 
-| | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| :-: | :- | :-:
-| *clustermq* | R package for efficient high performance computing ([*Bioinformatics* 📰](https://academic.oup.com/bioinformatics/article/35/21/4493/5499081)),<br/>now used in *targets* [📦](https://github.com/ropensci/targets) [📖](https://books.ropensci.org/targets/) [🧔](https://github.com/wlandau) | [github :octocat:](https://github.com/mschubert/clustermq)<br/>[cran 📦](https://cran.r-project.org/package=clustermq)<br/>[testing :gear:](https://github.com/mschubert/clustermq-performance) 
-| *narray* | R package for simplifying array operations | [github :octocat:](https://github.com/mschubert/narray)<br/>[cran 📦](https://cran.r-project.org/package=narray)
-| *ebits* | R bioinformatics toolkit incubator and data API | [ebits :octocat:](https://github.com/mschubert/ebits)<br/>[data :octocat:](https://github.com/mschubert/data)
-| | Software build scripts for the [ArchLinux User Repository 🔗](https://aur.archlinux.org/packages/?K=mschu&SeB=m) and as [Gentoo overlay 🔗](https://en.wikipedia.org/wiki/Portage_(software)#ebuild) | [pkgbuilds :octocat:](https://github.com/mschubert/PKGBUILDs)<br/>[overlay :octocat:](https://github.com/mschubert/overlay)
+| | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+:-: | :- | :-: | :-:
+| *clustermq* | R package for efficient high performance computing ([*Bioinformatics* 📰](https://academic.oup.com/bioinformatics/article/35/21/4493/5499081)),<br/>now used in *targets* [📦](https://github.com/ropensci/targets) [📖](https://books.ropensci.org/targets/) [🧔](https://github.com/wlandau) | [![CRAN version](http://www.r-pkg.org/badges/version/clustermq)](https://cran.r-project.org/package=clustermq)<br/>[![Build Status](https://github.com/mschubert/clustermq/workflows/R-CMD-check/badge.svg?branch=master)](https://github.com/mschubert/clustermq/actions) | [github :octocat:](https://github.com/mschubert/clustermq)<br/>[cran 📦](https://cran.r-project.org/package=clustermq)<br/>[testing :gear:](https://github.com/mschubert/clustermq-performance) 
+| *narray* | R package for simplifying array operations | [![CRAN version](http://www.r-pkg.org/badges/version/narray)](https://cran.r-project.org/package=narray)<br/>[![Build Status](https://travis-ci.org/mschubert/narray.svg?branch=master)](https://travis-ci.org/mschubert/narray) | [github :octocat:](https://github.com/mschubert/narray)<br/>[cran 📦](https://cran.r-project.org/package=narray)
+| *ebits* | R bioinformatics toolkit incubator and data API | | [ebits :octocat:](https://github.com/mschubert/ebits)<br/>[data :octocat:](https://github.com/mschubert/data)
+| | Software build scripts for the [ArchLinux User Repository 🔗](https://aur.archlinux.org/packages/?K=mschu&SeB=m) and as [Gentoo overlay 🔗](https://en.wikipedia.org/wiki/Portage_(software)#ebuild) | | [pkgbuilds :octocat:](https://github.com/mschubert/PKGBUILDs)<br/>[overlay :octocat:](https://github.com/mschubert/overlay)
   
 </details>
   
