@@ -7,7 +7,7 @@ I'm Michael, a computational biologist. This means that I'm using computers and 
 | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;article&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 :- | :-: | :-:
 | Developed a reliable method for estimating cell signaling pathways from gene expression | [*Nature Comm.* 📰](https://www.nature.com/articles/s41467-017-02391-6)<br/>[*Cell* 📰](https://www.cell.com/cell/fulltext/S0092-8674(16)30746-2) | [github :octocat:](https://github.com/saezlab/footprints)<br/>[bioc 📦](http://bioconductor.org/packages/release/bioc/html/progeny.html)
-| Showed how gene coexpression networks often reflect cell mixtures instead of regulation | [*BBA* 📰](https://eriba.umcg.nl/wp-content/uploads/2021/07/Foijer-2019-10-23-Biochim-Biophys-Acta-Gene-Regul-Mech.pdf) | [github :octocat:](https://github.com/mschubert/GRN-aneup-purity)
+| Showed how gene coexpression networks often reflect cell mixtures instead of regulation | [*BBA-GRM* 📰](https://eriba.umcg.nl/wp-content/uploads/2021/07/Foijer-2019-10-23-Biochim-Biophys-Acta-Gene-Regul-Mech.pdf) | [github :octocat:](https://github.com/mschubert/GRN-aneup-purity)
 | Found a way how cancer cells can tolerate abnormal DNA content (aneuploidy, ***c***hromosomal ***in***stability) and a potential treatment, in collaboration with experimental scientists | [*bioRxiv* 📰](https://www.biorxiv.org/content/10.1101/2021.12.03.471107v2)<br/>(+ coming soon) | [github :octocat:](https://github.com/mschubert/mad2-transposon) 
 | Working on estimating DNA copy number of single-cell RNA sequencing | coming soon |
   
