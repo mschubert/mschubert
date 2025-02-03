@@ -4,7 +4,7 @@ I'm Michael, a computational biologist. This means that I'm using computers and 
     
 <details><summary><b>This is what I do for research 👨‍🔬 (<a href=https://scholar.google.com/citations?user=z6mKdjAAAAAJ&hl=en>full list 🔗</a>)</b></summary>
 
-| | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;article&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;article&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 :- | :-: | :-:
 | Developed a reliable method for estimating cell signaling pathways from gene expression | [![Nat Comm](https://img.shields.io/badge/Nat%20Comm-2018-blue.svg)](https://www.nature.com/articles/s41467-017-02391-6)<br/>[![Cell](https://img.shields.io/badge/Cell-2016-blue.svg)](https://www.cell.com/cell/fulltext/S0092-8674(16)30746-2) | [github :octocat:](https://github.com/saezlab/footprints)<br/>[bioc 📦](http://bioconductor.org/packages/release/bioc/html/progeny.html)
 | Showed how gene coexpression networks often reflect cell mixtures instead of regulation | [![BBA-GRM](https://img.shields.io/badge/BBA--GRM-2020-blue.svg)](https://eriba.umcg.nl/wp-content/uploads/2021/07/Foijer-2019-10-23-Biochim-Biophys-Acta-Gene-Regul-Mech.pdf) | [github :octocat:](https://github.com/mschubert/GRN-aneup-purity)
